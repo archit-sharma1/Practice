@@ -31,5 +31,5 @@ This repository contains the solutions with the problem statements of SQL 50 stu
 - [1251. Average Selling Price](https://leetcode.com/problems/average-selling-price)
 - [1075. Project Employees I](https://leetcode.com/problems/project-employees-i)
 
-### [Subqueries]()
+### [Subqueries](https://github.com/archit-sharma1/Practice/tree/Leet-code-sql-16-Oct-2024/LeetCode/Sql/Subqueries)
 - [185. Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries)
