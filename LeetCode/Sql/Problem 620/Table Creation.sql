@@ -1,5 +1,5 @@
 create table cinema(
- id              int,      
+ id              int not null primary key,      
  movie           varchar(30),  
  description     varchar(30), 
  rating          float, 
