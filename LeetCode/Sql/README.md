@@ -30,3 +30,6 @@ This repository contains the solutions with the problem statements of SQL 50 stu
 - [620. Not Boring Movies](https://leetcode.com/problems/not-boring-movies)
 - [1251. Average Selling Price](https://leetcode.com/problems/average-selling-price)
 - [1075. Project Employees I](https://leetcode.com/problems/project-employees-i)
+
+### [Subqueries]()
+- [185. Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries)
