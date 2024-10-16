@@ -22,3 +22,11 @@ group by Signups.user_id
 having count(action) >= 0 ) b
 on a.user_id = b.user_id
 
+
+----Optimal solution
+select
+s.user_id, round(avg(case when action = 'confirmed' then 1.00 else 0.00 end),2) as confirmation_rate
+from Signups s
+left join Confirmations c
+on s.user_id = c.user_id
+group by s.user_id
