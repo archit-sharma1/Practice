@@ -5,7 +5,7 @@ This repository contains the solutions with the problem statements of SQL 50 stu
 
 
 ### Question solved:
-#### Select
+#### [Select](https://github.com/archit-sharma1/Practice/tree/Leet-code-sql-16-Oct-2024/LeetCode/Sql/Select)
 
 - [1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products)
 - [584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee)
@@ -13,7 +13,7 @@ This repository contains the solutions with the problem statements of SQL 50 stu
 - [1148. Article Views I](https://leetcode.com/problems/article-views-i)
 - [1683. Invalid Tweets](https://leetcode.com/problems/invalid-tweets)
 
-#### Basic Joins
+#### [Basic Joins](https://github.com/archit-sharma1/Practice/tree/Leet-code-sql-16-Oct-2024/LeetCode/Sql/Basic%20Joins)
 
 - [1378. Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier)
 - [1068. Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i)
@@ -24,4 +24,9 @@ This repository contains the solutions with the problem statements of SQL 50 stu
 - [1280. Students and Examinations](https://leetcode.com/problems/students-and-examinations)
 - [570. Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports)
 - [1934. Confirmation Rate](https://leetcode.com/problems/confirmation-rate)
+
+#### [Basic aggregate functions](https://github.com/archit-sharma1/Practice/tree/Leet-code-sql-16-Oct-2024/LeetCode/Sql/Basic%20aggregate%20functions)
+
 - [620. Not Boring Movies](https://leetcode.com/problems/not-boring-movies)
+- [1251. Average Selling Price](https://leetcode.com/problems/average-selling-price)
+- [1075. Project Employees I](https://leetcode.com/problems/project-employees-i)
