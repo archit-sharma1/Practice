@@ -23,3 +23,4 @@ This repository contains the solutions with the problem statements of SQL 50 stu
 - [577. Employee Bonus](https://leetcode.com/problems/employee-bonus)
 - [1280. Students and Examinations](https://leetcode.com/problems/students-and-examinations)
 - [570. Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports)
+- [1934. Confirmation Rate](https://leetcode.com/problems/confirmation-rate)
